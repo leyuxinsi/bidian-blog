@@ -4,9 +4,3 @@ db.json
 *.log
 node_modules/
 .deploy*/
-themes
-scaffolds
-source
-_config.yml
-package.json
-yarn.lock
